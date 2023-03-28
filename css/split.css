@@ -1,8 +1,8 @@
 body {
-  --color-bg: #d9ff00;
-  --color-text: #000000;
-  --color-link: #4e4e4e;
-  --color-link-hover: #db94ec;
+  --color-bg: #000000;
+  --color-text: #ffffff;
+  --color-link: #fe1a6a;
+  --color-link-hover: #ffffff;
 }
 
 .content__type {
